@@ -189,7 +189,7 @@ h1 {
     .container {
         flex-direction: column;
     }
-    .imagem__container {
+    .imagem__container_imagens img {
         display: none;
     }
     .formulario {
