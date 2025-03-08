@@ -185,14 +185,4 @@ h1 {
 .linha div {
     flex: 1;
 }
-@media (max-width: 1000px) {
-    .container {
-        flex-direction: column;
-    }
-    .imagem__container_imagens img {
-        display: none;
-    }
-    .formulario {
-        width: 100%;
-    }
-}
+
