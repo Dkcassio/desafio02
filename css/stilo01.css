@@ -185,7 +185,7 @@ h1 {
 .linha div {
     flex: 1;
 }
-@media (max-width: 768px) {
+@media (max-width: 100px) {
     .container {
         flex-direction: column;
     }
